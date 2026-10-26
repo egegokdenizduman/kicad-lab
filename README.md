@@ -8,6 +8,8 @@ github for collaboration between members.
 
 <font size=-1>Template forked courtesy of the BU Mars Rover Club!</font>
 
+See <a href="Git and GitHub - Fall 2026 - Google Slides.pdf">Slides</a> with instructions.
+
 ## File Structure
 
 - ```/kicad/``` contains all of the KiCad 10.0 project files
