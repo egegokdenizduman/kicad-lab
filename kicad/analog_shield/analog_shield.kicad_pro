@@ -178,6 +178,7 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 1,
+          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -189,6 +190,7 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 1,
+          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -200,6 +202,7 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 1,
+          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -504,6 +507,7 @@
       "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
+      "same_local_global_power": "warning",
       "similar_label_and_power": "warning",
       "similar_labels": "warning",
       "similar_power": "warning",
@@ -523,7 +527,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "template.kicad_pro",
+    "filename": "analog_shield.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -551,8 +555,8 @@
     "meta": {
       "version": 5
     },
-    "net_colors": null,
-    "netclass_assignments": null,
+    "net_colors": {},
+    "netclass_assignments": {},
     "netclass_patterns": []
   },
   "pcbnew": {
@@ -709,12 +713,12 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "template.kicad_sch",
+        "filename": "analog_shield.kicad_sch",
         "name": "Root",
         "uuid": "dff3cfde-4775-47a0-871e-26e88704f259"
       }
     ],
-    "used_designators": "R1",
+    "used_designators": "#FLG1-2,#PWR1-20,A1,C1-8,J1-2,J4,R1-5,U1-5",
     "variants": []
   },
   "sheets": [
@@ -724,13 +728,13 @@
     ]
   ],
   "text_variables": {
-    "SCH_CONTRIBUTORS": "Dr. Electron",
-    "SCH_DATE": "9/1/2026",
-    "SCH_DESC_1": "line one",
-    "SCH_DESC_2": "line two",
+    "SCH_CONTRIBUTORS": "Ege Duman",
+    "SCH_DATE": "10/26/2026",
+    "SCH_DESC_1": "Analog Shield Setup For Arduino",
+    "SCH_DESC_2": "This is for Lab 3.5 of BE511",
     "SCH_REVISION": "1.0",
-    "SCH_SUBSYSTEM": "Comms",
-    "SCH_TITLE": "Comms Example Board"
+    "SCH_SUBSYSTEM": "Analog I/O",
+    "SCH_TITLE": "Arduino Analog Shield"
   },
   "tuning_profiles": {
     "meta": {
