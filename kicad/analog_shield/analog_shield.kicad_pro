@@ -729,7 +729,7 @@
   ],
   "text_variables": {
     "SCH_CONTRIBUTORS": "Ege Duman",
-    "SCH_DATE": "10/26/2026",
+    "SCH_DATE": "11/12/2026",
     "SCH_DESC_1": "Analog Shield Setup For Arduino",
     "SCH_DESC_2": "This is for Lab 3.5 of BE511",
     "SCH_REVISION": "1.0",
