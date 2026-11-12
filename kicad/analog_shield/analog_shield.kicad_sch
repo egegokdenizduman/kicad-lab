@@ -4802,7 +4802,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 103.8352 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -4964,7 +4964,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock:TerminalBlock_Xinya_XY308-2.54-5P_1x05_P2.54mm_Horizontal"
 			(at 92.71 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -5918,7 +5918,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 124.7648 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -6078,7 +6078,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 94.9452 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -6160,7 +6160,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 30.7848 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -6242,7 +6242,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 32.7152 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -6872,7 +6872,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 112.7252 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -6952,7 +6952,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock:TerminalBlock_Xinya_XY308-2.54-5P_1x05_P2.54mm_Horizontal"
 			(at 53.34 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -7123,7 +7123,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 86.0552 63.5 0)
 			(hide yes)
 			(show_name no)
