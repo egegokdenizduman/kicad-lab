@@ -728,6 +728,13 @@
     ]
   ],
   "text_variables": {
+    "PCB_CONTRIBUTORS": "Ege Duman",
+    "PCB_DATE": "11/12/2026",
+    "PCB_DESC_1": "Analog Shield Setup For Arduino",
+    "PCB_DESC_2": "This is for Lab 3.5 of BE511",
+    "PCB_REVISION": "1.0",
+    "PCB_SUBSYSTEM": "Analog I/O",
+    "PCB_TITLE": "Arduino Analog Shield",
     "SCH_CONTRIBUTORS": "Ege Duman",
     "SCH_DATE": "11/12/2026",
     "SCH_DESC_1": "Analog Shield Setup For Arduino",
